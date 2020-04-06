@@ -1,0 +1,18 @@
+# Environment
+env/
+
+# Static files
+static/
+
+# Media files
+media/
+
+# Database
+db.sqlite3
+
+
+# Pycache
+backend/__pycache__/
+apps/company/__pycache__/
+apps/company/migrations/__pycache__/
+
