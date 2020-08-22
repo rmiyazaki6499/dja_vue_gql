@@ -43,7 +43,7 @@ This is a Tutorial for using Django with Vue and GraphQL
   - Go into the project directory to build and run the container with:
 
   ```
-  $ cd tour-of-heros/
+  $ cd dja_vue_gql/
   $ docker-compose up -d --build
   ```
 
